@@ -125,7 +125,7 @@ export default function Home() {
       <div className="max-w-5xl mx-auto">
         <div className="mb-10 border-b border-zinc-800 pb-6">
         <img
-  src="/logo.png"
+  src="/Logo.png"
   alt="Brand Command Logo"
   className="w-[320px] md:w-[420px]"
 />
