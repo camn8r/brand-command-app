@@ -124,7 +124,11 @@ export default function Home() {
     <main className="min-h-screen bg-black text-white p-8">
       <div className="max-w-5xl mx-auto">
         <div className="mb-10 border-b border-zinc-800 pb-6">
-          <h1 className="text-5xl font-bold tracking-tight">BRAND COMMAND</h1>
+        <img
+  src="/logo.png"
+  alt="Brand Command Logo"
+  className="w-[320px] md:w-[420px]"
+/>
           <p className="text-zinc-400 text-xl mt-2">Presence Foundation Assessment</p>
           <p className="text-zinc-500 mt-4 max-w-2xl">
             Strategic Visibility Assessment designed to identify audience perception,
